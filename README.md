@@ -17,12 +17,16 @@ The project is organized into three pages:
 1. **Homepage:**
    - The homepage serves as the entry point to the project and provides an overview of the available analyses. No specific visualizations are present on this page.
 
-2. **Overview Page:**
+   ![Homepage](Screen Shots/HomePage.png)
+   
+3. **Overview Page:**
    - The overview page presents a comprehensive analysis of ATM transactions, including key metrics, trends, and patterns. Visualizations on this page offer a high-level summary of transaction data.
 
-3. **Demographic Page:**
+  ![Overview Page](Screen Shots/Overview.png)
+4. **Demographic Page:**
    - The demographic page dives deeper into customer demographics, providing insights into transaction behaviors based on customer characteristics. Visualizations include demographic-based analyses.
 
+  ![Demographic Page](Screen Shots/Demography.png)
 ## Instructions
 
 To explore the Power BI project, follow these steps:
